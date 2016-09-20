@@ -5,6 +5,8 @@ description: Learn all the tips, tricks and more for buyers and sellers in the C
 custom_links:
   # - title: Our Listings
   #   url: http://www.calgaryareahousesforsale.com/featured/
+contact_link: false
+
 
 client:
   market: Calgary
