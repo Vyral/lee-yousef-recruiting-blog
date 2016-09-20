@@ -17,8 +17,8 @@ client:
   #Dont Include http://
   url: CalgaryAreaHousesForSale.com
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: '/Freeconsultation'
-  homeeval_txt: Free Consultation
+  homeeval: '/#contact'
+  homeeval_txt: Private Consultation
   homesearch: '#'
   homesearch_txt: '#'
   VR_form:
