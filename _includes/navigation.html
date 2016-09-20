@@ -20,11 +20,18 @@
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
 			{% if site.data.settings.client.homeeval != '#' %}
-			<li>
-				<a class="cta" href="{{site.data.settings.client.homeeval}}">
-					{{site.data.settings.client.homeeval_txt}}
-				</a>
-			</li>
+		    	{% if site.data.settings.client.homeeval == '#contact' %}
+	            	<li>
+			    	<a class="cta" id="contact" href="{{site.data.settings.client.homeeval}}">
+				    	{{site.data.settings.client.homeeval_txt}}
+			    	</a>
+		    	</li>
+		    	{% else %}
+		    		<li>
+			    	<a class="cta" href="{{site.data.settings.client.homeeval}}">
+				    	{{site.data.settings.client.homeeval_txt}}
+			    	</a>
+		    	</li>
 			{% endif %}
 			{% if site.data.settings.client.homesearch != '#' %}
 			<li>
