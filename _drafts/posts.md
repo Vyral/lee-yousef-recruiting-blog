@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Posts
+title: Come Learn What Sets Us Apart
 category:
 tags:
   - Market Update
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: If you've ever considered working in a positive, supportive, and financially stable work environment, you need to come to our information session on October 6th. We’ll talk about the details of what our team offers and what it takes to be successful in real estate today. No catch, no gimmicks. Don't waste any more money looking for resources and additional ideas to grow your business – come see how we do it.
 enclosure:
-pullquote:
+pullquote:We don't just teach you; we grow with you.
 enclosure_type: video/mp4
 enclosure_time:
 image: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
