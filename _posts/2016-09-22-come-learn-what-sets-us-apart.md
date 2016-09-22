@@ -34,5 +34,5 @@ If you've ever considered working in a positive, supportive, and financially sta
 We are looking for a handful of agents and space is limited. If you share our vision and you'd like to learn more about what we do, come see us October 6th. If you have any further questions, feel free to reach out to me.
 
 {:center: style="text-align: center"}
-[To RSVP here to the October 6th event.](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team)
+[To RSVP here to the October 6th event.](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team){:target="_blank"}
 {:center}
