@@ -6,6 +6,9 @@ custom_links:
   # - title: Our Listings
   #   url: http://www.calgaryareahousesforsale.com/featured/
 
+contact_link: false
+
+
 client:
   market: Calgary
   name: Lee Yousef
@@ -13,15 +16,15 @@ client:
   brokerage: 'CIR Realty'
   address: '707 10 Ave SW Calgary, Alberta T2R 0B3'
   phone: 403-689-3839
-  email: info@LeeYousef.com
+  email: recruitment@LeeYousef.com
   #Dont Include http://
-  url: CalgaryAreaHousesForSale.com
+  url: leeyousefrecruitme.wixsite.com/joinourteam
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: 'http://www.calgaryareahousesforsale.com/'
-  homeeval_txt: Home Evaluation
-  homesearch: 'http://www.calgaryareahousesforsale.com/homevalue/'
-  homesearch_txt: Home Search
-  VR_form:
+  homeeval: '#contact'
+  homeeval_txt: Private Consultation
+  homesearch: '#'
+  homesearch_txt: '#'
+  VR_form: 'http://oi.vresp.com?fid=f1b4aa14de'
 
 
 # social links
@@ -31,7 +34,7 @@ socials:
   gplus: 'https://plus.google.com/117612973095930427295'
   youtube: 'https://www.youtube.com/channel/UCCZEGY37lAtpOD6fZ44XWfA'
   twitter: 'https://twitter.com/leeyousef'
-  instagram: '#'
+  instagram: 'http://instagram.com/leeyousef.realestate'
   pinterest: '#'
   zillow: '#'
   trulia: '#'
@@ -59,7 +62,7 @@ audit_header: false
 images:
   hero_image_path: '/img/yousef_newblog.jpg'
   hero_logo_path: '/img/ly_logo_white.png'
-  hero_text: 'Real Estate Video Blog'
+  hero_text: 'Real Estate Training Blog'
   hero_background_hex: "#16AFBB"
   client_headshot_path: '/img/lee_yousef_headshot.jpg'
 
