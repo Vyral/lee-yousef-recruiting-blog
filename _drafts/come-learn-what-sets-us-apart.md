@@ -9,8 +9,8 @@ enclosure:
 pullquote: We don't just teach you; we grow with you.
 enclosure_type: video/mp4
 enclosure_time:
-image: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
+image: 'http://img.youtube.com/vi/FbIAoSLTJk4/maxresdefault.jpg'
+thumbnail: 'http://img.youtube.com/vi/FbIAoSLTJk4/maxresdefault.jpg'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FbIAoSLTJk4?rel=0" frameborder="0" allowfullscreen></iframe>
 I wanted to take a minute to talk about our team and what you can expect from our information session on October 6th.
