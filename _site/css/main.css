@@ -2394,8 +2394,8 @@ form select {
     .navbar-andross .nav li a:hover {
       color: #16AFBB; }
   .navbar-andross .cta, .navbar-andross .cta2 {
-    background: transparent;
-    border: 2px solid white; }
+    background: #16AFBB;
+    border: 2px solid #11848d; }
 
 .footer {
   background: #404041;
