@@ -18,7 +18,7 @@ client:
   phone: 403-689-3839
   email: recruitment@LeeYousef.com
   #Dont Include http://
-  url: CalgaryAreaHousesForSale.com
+  url: leeyousefrecruitme.wixsite.com/joinourteam
   # if forms put '/homevalue/' or '/homesearch/'
   homeeval: '#contact'
   homeeval_txt: Private Consultation
