@@ -31,3 +31,5 @@ Like most new agents, when I started in real estate, I was trying anything and e
 If you've ever considered working in a positive, supportive, and financially stable work environment, you need to come to our information session on October 6th. We’ll talk about the details of what our team offers and what it takes to be successful in real estate today. No catch, no gimmicks. Don't waste any more money looking for resources and additional ideas to grow your business – come see how we do it.
 
 We are looking for a handful of agents and space is limited. If you share our vision and you'd like to learn more about what we do, come see us October 6th. If you have any further questions, feel free to reach out to me.
+
+[To RSVP here to the October 6th event.](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team)
