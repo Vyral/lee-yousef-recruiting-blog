@@ -1280,6 +1280,7 @@ html[xmlns] .flexslider .slides {
       transform: translateY(0rem); }
   .navbar-andross .cta2 {
     color: #16AFBB;
+    background: #4ddfea;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
@@ -1324,7 +1325,7 @@ html[xmlns] .flexslider .slides {
 
 .navbar-left > li > a {
   border: 0;
-  background: transparent;
+  background: #4ddfea;
   color: #16AFBB; }
   .navbar-left > li > a:hover {
     background: transparent;
@@ -1901,11 +1902,10 @@ table tr, table td {
     font-size: 18px;
     border: 1px solid #c7c7c7;
     background: rgba(255, 255, 255, 0.1);
-    color: #16AFBB;
-    font-size: 2rem;
     padding: 2.4rem;
     display: inline-block;
     margin-right: 1rem;
+    color: #2a2a28;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-input::-webkit-input-placeholder {
