@@ -6,10 +6,21 @@
 	background: #404041
 	li
 		color: #fff
-	.nav
+	.navbar-left
 		li
 			a
-			    background: transparent
+				background: transparent
+				color: $light-text
+				text-transform: uppercase
+				color: $light-text
+				font-weight: bold
+				padding-top: 15px
+				&:hover
+					color: $brand-light
+	.navbar-right
+		li
+			a
+				background: $brand
 				text-transform: uppercase
 				color: $light-text
 				font-weight: bold
@@ -19,6 +30,7 @@
 	.cta, .cta2
 		background: $brand
 		border: 2px solid $brand-dark
+
 
 .footer
 	background: #404041

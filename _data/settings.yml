@@ -6,7 +6,7 @@ custom_links:
   # - title: Our Listings
   #   url: http://www.calgaryareahousesforsale.com/featured/
 
-contact_link: false
+contact_link: true
 
 
 client:
@@ -20,8 +20,8 @@ client:
   #Dont Include http://
   url: leeyousefrecruitme.wixsite.com/joinourteam
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: '#contact'
-  homeeval_txt: Private Consultation
+  homeeval: 'http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team'
+  homeeval_txt: Get More Information
   homesearch: '#'
   homesearch_txt: '#'
   VR_form: 'http://oi.vresp.com?fid=f1b4aa14de'

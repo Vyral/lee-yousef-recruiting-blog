@@ -1325,7 +1325,7 @@ html[xmlns] .flexslider .slides {
 
 .navbar-left > li > a {
   border: 0;
-  background: #4ddfea;
+  background: transparent;
   color: #16AFBB; }
   .navbar-left > li > a:hover {
     background: transparent;
@@ -2386,12 +2386,22 @@ form select {
   background: #404041; }
   .navbar-andross li {
     color: #fff; }
-  .navbar-andross .nav li a {
+  .navbar-andross .navbar-left li a {
+    background: transparent;
+    color: white;
     text-transform: uppercase;
     color: white;
     font-weight: bold;
     padding-top: 15px; }
-    .navbar-andross .nav li a:hover {
+    .navbar-andross .navbar-left li a:hover {
+      color: #4ddfea; }
+  .navbar-andross .navbar-right li a {
+    background: #16AFBB;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    padding-top: 15px; }
+    .navbar-andross .navbar-right li a:hover {
       color: #16AFBB; }
   .navbar-andross .cta, .navbar-andross .cta2 {
     background: #16AFBB;
