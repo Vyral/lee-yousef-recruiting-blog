@@ -11,19 +11,18 @@ enclosure_type: video/mp4
 enclosure_time:
 image: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
 thumbnail: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
-
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qMaGvLY7Dvk" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="https://www.youtube.com/embed/qMaGvLY7Dvk" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
 I wanted to take a minute to talk about our team and what you can expect from our information session on October 6th.
 
-Early on, our agents were asked to convert your typical cold Internet leads with minimal success and administrative support. After many months of trial and error, I realized that we needed to find a better way. Most teams can generate cold Internet leads, and if that's what you want, there's no shortage of teams in Calgary that offer that.
+Early on, our agents were asked to convert typical cold Internet leads with minimal success and administrative support. After many months of trial and error, I realized that we needed to find a better way. Most teams can generate cold Internet leads, and if that's what you want, there's no shortage of teams in Calgary that offer that.
 
-If you're looking for a complete approach to reinventing your real estate career and get on the right path, then we are the team for you. We all know what we need to do on a daily basis, but it's very difficult to do it on your own. **You need time, money, training, and a lot of systems to get it done. Above all, you need a dedicated team of people who are working together toward the same goal.**
+If you're looking for a complete approach to reinventing your real estate career, then we are the team for you. We all know what we need to do on a daily basis, but it's very difficult to do it on your own. **You need time, money, training, and a lot of systems to get it done. Above all, you need a dedicated team of people who are working together toward the same goal.**
 
-<a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}" target='_blank' class="pullquote">&#8220;{{page.pullquote}}&#8221;</a>
+| &lt;a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter</td><td>remove: 'https://twitter.com/'}}" target='_blank' class="pullquote"&gt;“{{page.pullquote}}”&lt;/a&gt; |
 
 Like most new agents, when I started in real estate, I was trying anything and everything I could get my hands on. There is no shortage of ideas out there, and that's why we designed our training programs and systems to only focus on activities that produce results. We cover everything from transcripts to marketing to presentation skills and how to get commitments from buyers.
 
@@ -33,6 +32,4 @@ If you've ever considered working in a positive, supportive, and financially sta
 
 We are looking for a handful of agents and space is limited. If you share our vision and you'd like to learn more about what we do, come see us October 6th. If you have any further questions, feel free to reach out to me.
 
-{:center: style="text-align: center"}
-[To RSVP here to the October 6th event.](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team){:target="_blank"}
-{:center}
+[RSVP here to the October 6th event.](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team)
