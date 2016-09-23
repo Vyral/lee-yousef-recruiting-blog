@@ -20,7 +20,6 @@ If you're tired of chasing cold Internet leads that any team in Calgary can prov
 {: .center}
 
 [To Request a Private Consultation, Click Here](recruitment@LeeYousef.com)
-{: .center}
 <br>[To Learn More About Our Team, Click Here](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team)
 {: .center}
 
