@@ -16,6 +16,11 @@ thumbnail: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
 
 <iframe src="https://www.youtube.com/embed/qMaGvLY7Dvk" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
+If you're tired of chasing cold Internet leads that any team in Calgary can provide you, you might be a fit for our team. Learn more about our upcoming information session.
+
+To Request a Private Consultation, Click Here
+<br>To Learn More About Our Team, Click Here
+
 I wanted to take a minute to talk about our team and what you can expect from our information session on October 6th.
 
 Early on, our agents were asked to convert typical cold Internet leads with minimal success and administrative support. After many months of trial and error, I realized that we needed to find a better way. Most teams can generate cold Internet leads, and if that's what you want, there's no shortage of teams in Calgary that offer that.
@@ -32,6 +37,5 @@ If you've ever considered working in a positive, supportive, and financially sta
 
 We are looking for a handful of agents and space is limited. If you share our vision and you'd like to learn more about what we do, come see us October 6th. If you have any further questions, feel free to reach out to me.
 
-
 [RSVP here to the October 6th event.](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team)
-{: .center }
+{: .center}
