@@ -1859,7 +1859,7 @@ table tr, table td {
   .socials svg {
     height: 4rem;
     width: 4rem; } }
-@media (max-width: 1000px) {
+@media (max-width: 1250px) {
   .socials svg {
     height: 3rem;
     width: 3rem; }
@@ -1871,8 +1871,8 @@ table tr, table td {
   .socials {
     text-align: center; }
     .socials svg {
-      height: 4rem;
-      width: 4rem; } }
+      height: 3rem;
+      width: 3rem; } }
 @media (max-width: 445px) {
   .socials svg {
     height: 3rem;
