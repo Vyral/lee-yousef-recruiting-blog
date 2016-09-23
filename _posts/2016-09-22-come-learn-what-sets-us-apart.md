@@ -9,12 +9,12 @@ enclosure:
 pullquote: "We don't just teach you; we grow with you."
 enclosure_type: video/mp4
 enclosure_time:
-image: 'http://img.youtube.com/vi/p0AyKbD61kw/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/p0AyKbD61kw/maxresdefault.jpg'
+image: 'http://img.youtube.com/vi/4xXC5cBe79M/maxresdefault.jpg'
+thumbnail: 'http://img.youtube.com/vi/4xXC5cBe79M/maxresdefault.jpg'
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p0AyKbD61kw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4xXC5cBe79M" frameborder="0" allowfullscreen></iframe>
 
 If you're tired of chasing cold Internet leads that any team in Calgary can provide you, you might be a fit for our team. Learn more about our upcoming information session.
 {: .center}
