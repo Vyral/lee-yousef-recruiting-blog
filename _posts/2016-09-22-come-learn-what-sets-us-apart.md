@@ -9,8 +9,8 @@ enclosure:
 pullquote: "We don't just teach you; we grow with you."
 enclosure_type: video/mp4
 enclosure_time:
-image: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
+image: 'http://img.youtube.com/vi/p0AyKbD61kw/maxresdefault.jpg'
+thumbnail: 'http://img.youtube.com/vi/p0AyKbD61kw/maxresdefault.jpg'
 ---
 
 
