@@ -18,8 +18,8 @@ thumbnail: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
 
 If you're tired of chasing cold Internet leads that any team in Calgary can provide you, you might be a fit for our team. Learn more about our upcoming information session.
 
-To Request a Private Consultation, Click Here
-<br>To Learn More About Our Team, Click Here
+[To Request a Private Consultation, Click Here](recruitment@LeeYousef.com)
+<br>[To Learn More About Our Team, Click Here](http://leeyousefrecruitme.wixsite.com/joinourteam/join-our-team)
 
 I wanted to take a minute to talk about our team and what you can expect from our information session on October 6th.
 
