@@ -24,8 +24,6 @@ If you're looking for a complete approach to reinventing your real estate career
 
 {% include pullquote.html %}
 
-yarg!
-
 Like most new agents, when I started in real estate, I was trying anything and everything I could get my hands on. There is no shortage of ideas out there, and that's why we designed our training programs and systems to only focus on activities that produce results. We cover everything from transcripts to marketing to presentation skills and how to get commitments from buyers.
 
 **We don't just teach you how to do it, we also work with you on a day to day basis to help you make sure it gets done.**
