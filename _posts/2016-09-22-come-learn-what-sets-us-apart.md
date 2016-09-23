@@ -13,6 +13,7 @@ image: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
 thumbnail: 'http://img.youtube.com/vi/qMaGvLY7Dvk/maxresdefault.jpg'
 ---
 
+
 <iframe src="https://www.youtube.com/embed/qMaGvLY7Dvk" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
 I wanted to take a minute to talk about our team and what you can expect from our information session on October 6th.
@@ -22,6 +23,8 @@ Early on, our agents were asked to convert typical cold Internet leads with mini
 If you're looking for a complete approach to reinventing your real estate career, then we are the team for you. We all know what we need to do on a daily basis, but it's very difficult to do it on your own. **You need time, money, training, and a lot of systems to get it done. Above all, you need a dedicated team of people who are working together toward the same goal.**
 
 {% include pullquote.html %}
+
+yarg!
 
 Like most new agents, when I started in real estate, I was trying anything and everything I could get my hands on. There is no shortage of ideas out there, and that's why we designed our training programs and systems to only focus on activities that produce results. We cover everything from transcripts to marketing to presentation skills and how to get commitments from buyers.
 
