@@ -39,7 +39,7 @@ socials:
   zillow: '#'
   trulia: '#'
   yelp: 'https://www.yelp.com/biz/lee-yousef-and-associates-calgary'
-  podcast: 'http://leeyousefcareers.com/feed.xml'
+  podcast: 'http://feeds.feedburner.com/LeeYousefAssociatesRealEstateTrainingBlog'
 
 #podcast settings
 podcast:
