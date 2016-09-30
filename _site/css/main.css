@@ -1857,8 +1857,8 @@ table tr, table td {
 
 @media (max-width: 1450px) {
   .socials svg {
-    height: 4rem;
-    width: 4rem; } }
+    height: 3rem;
+    width: 3rem; } }
 @media (max-width: 1300px) {
   .socials svg {
     height: 3rem;
