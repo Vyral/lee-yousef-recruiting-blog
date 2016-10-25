@@ -1,24 +1,11 @@
-
 ---
 layout: post
 title: Come Learn What Sets Us Apart
 tags:
   - Real Estate Training Tips
-excerpt: |
-If you're tired of chasing cold Internet leads that any team in Calgary can
-  provide you, you might be a fit for our team. Learn more about our upcoming
-  information session.
-
-  If you're looking to reinvent your real estate career with a team that provides
-  the support and resources you need to succeed, you might be a perfect fit for
-  our team. If you think you share our vision and are tired of following the same
-  old cold Internet leads, come to our information session on October 6th to find
-  out more about how you can grow your career. We designed our training program
-  and systems to focus solely on the things that produce results. We'd love for
-  you to come find out if this would be a good fit for you and your career. To
-  learn more, watch this short video.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Lee+Yousef/Calgary+Real+Estate+Come+find+out+if+you%27re+a+fit.mp4'
-pullquote: "We don't just teach you; we grow with you."
+excerpt: If you're tired of chasing cold Internet leads that any team in Calgary can provide you, you might be a fit for our team. Learn more about our upcoming information session.
+enclosure: https://s3.amazonaws.com/vyralmarketing/Lee+Yousef/Calgary+Real+Estate+Come+find+out+if+you%27re+a+fit.mp4
+pullquote: We don't just teach you; we grow with you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
