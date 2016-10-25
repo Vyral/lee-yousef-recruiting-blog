@@ -27,9 +27,6 @@ youtube_code: 4xXC5cBe79M
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
-
 <iframe src="https://www.youtube.com/embed/4xXC5cBe79M" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
 I wanted to take a minute to talk about our team and what you can expect from our information session on October 6th.
