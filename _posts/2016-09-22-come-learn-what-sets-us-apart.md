@@ -27,8 +27,6 @@ youtube_code: 4xXC5cBe79M
 ---
 {% include youtube.html %}
 
-<iframe src="https://www.youtube.com/embed/4xXC5cBe79M" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
-
 I wanted to take a minute to talk about our team and what you can expect from our information session on October 6th.
 
 Early on, our agents were asked to convert typical cold Internet leads with minimal success and administrative support. After many months of trial and error, I realized that we needed to find a better way. Most teams can generate cold Internet leads, and if that's what you want, there's no shortage of teams in Calgary that offer that.
