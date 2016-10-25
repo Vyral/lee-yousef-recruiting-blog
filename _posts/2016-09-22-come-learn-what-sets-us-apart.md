@@ -30,12 +30,9 @@ thumbnail: 'http://img.youtube.com/vi/4xXC5cBe79M/maxresdefault.jpg'
 ---
 ---
 layout: post
-title: Top 10 Star Fox Bosses
+title: Come Learn What Sets Us Apart
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Real Estate Training Tips
 excerpt:
 enclosure:
 pullquote: Andross, the Final Boss
