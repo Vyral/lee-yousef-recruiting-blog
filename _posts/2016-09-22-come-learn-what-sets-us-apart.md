@@ -28,6 +28,26 @@ enclosure_time:
 image: 'http://img.youtube.com/vi/4xXC5cBe79M/maxresdefault.jpg'
 thumbnail: 'http://img.youtube.com/vi/4xXC5cBe79M/maxresdefault.jpg'
 ---
+---
+layout: post
+title: Top 10 Star Fox Bosses
+tags:
+  - Market Update
+  - Real Estate
+  - Buyer Tips
+  - Home Seller Tips
+excerpt:
+enclosure:
+pullquote: Andross, the Final Boss
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: 4xXC5cBe79M
+---
+{% include youtube.html %}
+
+{% include pullquote.html %}
 
 
 <iframe src="https://www.youtube.com/embed/4xXC5cBe79M" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
