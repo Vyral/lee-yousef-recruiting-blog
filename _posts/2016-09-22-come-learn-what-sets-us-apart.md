@@ -46,8 +46,8 @@ If you're tired of chasing cold Internet leads that any team in Calgary can
   and systems to focus solely on the things that produce results. We'd love for
   you to come find out if this would be a good fit for you and your career. To
   learn more, watch this short video.
-enclosure:
-pullquote: Andross, the Final Boss
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Lee+Yousef/Calgary+Real+Estate+Come+find+out+if+you%27re+a+fit.mp4'
+pullquote: "We don't just teach you; we grow with you."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
