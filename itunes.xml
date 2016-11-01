@@ -12,7 +12,7 @@ layout: null
     <managingEditor>{{site.data.settings.podcast.author}}</managingEditor>
     <lastBuildDate>{{site.time}}</lastBuildDate>
     <media:copyright>{{site.data.settings.podcast.author}}</media:copyright>
-    <media:thumbnail url="{{site.data.settings.podcast.image}}"/>
+    <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <media:keywords>{{site.data.settings.podcast.keywords}}</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -21,7 +21,7 @@ layout: null
     </itunes:owner>
     <itunes:author>{{site.data.settings.podcast.author}}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{site.data.settings.podcast.image}}"/>
+    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <itunes:keywords>{{site.data.settings.podcast.keywords}}</itunes:keywords>
     <itunes:subtitle>{{site.data.settings.podcast.subtitle}}</itunes:subtitle>
     <itunes:summary>{{site.data.settings.podcast.description}}</itunes:summary>
@@ -38,7 +38,7 @@ layout: null
         <guid>{{post.enclosure}}</guid>
         <description>{{post.content | strip_html}}</description>
         <enclosure url="{{post.enclosure}}" length="{{post.enclosure_time}}" type="{{post.enclosure_type}}"/>
-        <media:thumbnail url="{{post.image}}" height="72" width="72"/>
+        <media:thumbnail url="{{post.image | prepend: site.url}}" height="72" width="72"/>
         <media:content url="{{post.enclosure}}" type="{{post.enclosure_type}}"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>{{site.data.settings.podcast.subtitle}}</itunes:subtitle>
